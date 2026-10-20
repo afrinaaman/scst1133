@@ -1,7 +1,4 @@
-# Hello world
-## Hello world
-### Hello world
-#### Hello world
+
 # Hai, saya Afrina Aman! 👋
 
 ## 👩‍💻 Tentang Saya
